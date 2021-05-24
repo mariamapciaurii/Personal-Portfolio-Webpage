@@ -110,6 +110,11 @@ img{
     justify-content: space-between;
     align-items: center;
 }
+.nav__logo{
+    color: var(--first-color-dark);
+    font-weight: var(--font-semi-bold);
+    font-size: var(--mb-2);
+}
 .nav__menu{
     position: fixed;
     top: 0;
