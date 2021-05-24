@@ -191,7 +191,8 @@ img{
     margin-bottom: var(--mb-5);
 }
 .home__social{
-    margin-bottom: 7rem;
+    margin-top: 3rem;
+    margin-bottom: 4rem;
 }
 .home__social-link{
     display: inline-flex;
