@@ -80,7 +80,7 @@ img{
 }
 .section-subtitle{
     display: block;
-    font-size: var(--small-font-size);
+    font-size: var(--font-medium);
     color: var(--first-color-darken);
     text-align: center;
     font-weight: var(--font-bold);
@@ -241,6 +241,7 @@ img{
 }
 .about__description{
     margin-bottom: var(--mb-4);
+    text-align: center;
 }
 .about__img{
     width: 150px;
@@ -474,7 +475,7 @@ width: 60%;
         text-align: initial;
     }
     .project__img{
-        width: 230px;
+        width: 280px;
         align-self: flex-end;
     }
     .contact__inputs{
