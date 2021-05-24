@@ -191,7 +191,8 @@ img{
     margin-bottom: var(--mb-5);
 }
 .home__social{
-    margin-bottom: 5rem;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
 }
 .home__social-link{
     display: inline-flex;
@@ -206,6 +207,7 @@ img{
 }
 .home__social-link:hover{
     background-color: var(--first-color-dark);
+
 }
 
 /*BUTTON*/
