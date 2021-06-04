@@ -356,6 +356,9 @@ width: 60%;
     border-radius: .25rem;
     margin-bottom: var(--mb-2);
 }
+.fa-link{
+    margin-left: 135px;
+}
 .works__title{
     font-size: var(--h2-font-size);
     color: var(--first-color-lighter);
