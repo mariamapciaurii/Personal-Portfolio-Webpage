@@ -49,6 +49,7 @@ body{
     background-color: var(--first-color-lighter);
     color: var(--text-color);
     line-height: 1.6;
+    font-family: 'Rubik', sans-serif;
 }
 h1,h2,h3,p{
     margin: 0;
@@ -184,6 +185,7 @@ img{
     font-size: var(--h1-font-size);
     color: var(--first-color);
     font-weight: var(--font-semi-bold);
+    
 }
 .home__proffesion{
     font-size: var(--small-font-size);
